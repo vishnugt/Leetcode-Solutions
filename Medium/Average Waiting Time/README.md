@@ -1,0 +1,1 @@
+Question: https://leetcode.com/contest/biweekly-contest-42/problems/average-waiting-time/
